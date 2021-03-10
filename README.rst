@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsharoonthomas%2Fpymws.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsharoonthomas%2Fpymws?ref=badge_shield)
+
 =================
 Python MWS Client
 =================
@@ -56,3 +58,7 @@ call operations.
 
   start_date = datetime(2020, 1, 20, 10, 30)
   client.orders.list_orders(CreatedAfter=start_date)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsharoonthomas%2Fpymws.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsharoonthomas%2Fpymws?ref=badge_large)
